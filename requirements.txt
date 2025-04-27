@@ -1,5 +1,7 @@
 flask
 face_recognition
+dlib
+numpy
 opencv-python
 requests
 python-telegram-bot
